@@ -27,7 +27,7 @@ html {
 
 /* Hero Start*/
 .hero-image {
-  background-image: url("img/hero1.png");
+  background-image: url("hero1.png");
   height: 100%;
   background-position: center;
   background-repeat: no-repeat;
